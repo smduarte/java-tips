@@ -5,4 +5,4 @@ dependencies:
   - pandas
   - numpy
   - ipywidgets
-  - beakerx
+  - beakerx=1.2.0
